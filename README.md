@@ -1,6 +1,6 @@
 # Rocky Linux 10 Ansible Test Image
 
-[![CI](https://github.com/hemanth22/docker-rockylinux10-ansible/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/hemanth22/docker-rockylinux10-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/hemanth22/docker-rockylinux10-ansible)](https://hub.docker.com/r/hemanth22/docker-rockylinux10-ansible/)
+[![Build](https://github.com/hemanth22/docker-rockylinux10-ansible/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/hemanth22/docker-rockylinux10-ansible/actions/workflows/build.yml) [![Docker pulls](https://img.shields.io/docker/pulls/hemanth22/docker-rockylinux10-ansible)](https://hub.docker.com/r/hemanth22/docker-rockylinux10-ansible/)
 
 Rocky Linux 10 Docker container for Ansible playbook and role testing.
 
